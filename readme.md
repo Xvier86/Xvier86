@@ -1,9 +1,6 @@
 <!-- Profil Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=450&lines=Welcome+to+My+GitHub+Profile!;Its+Me+Xvier!" alt="Typing SVG">
-  <br/>
-  <img src="https://i.pinimg.com/originals/93/60/54/9360542d71e41c8da83b1833e557e42e.gif" alt="Mikasa" width="100" align="left"/>
-  <img src="https://media.giphy.com/media/q8MepM0IqBvAey0LOs/giphy.gif" alt="Makima" width="100" align="right"/>
 </p>
 
 <!-- Banner -->
@@ -16,7 +13,16 @@
 <!-- Tentang Saya -->
 ## 👨‍🚀 About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btVtQq93Z3hAlfO/giphy.gif" alt="Gojo Satoru" width="150"/>
+  <img src="https://media.giphy.com/media/YbXwovRiw8A2k6aS2k/giphy.gif" alt="Anime Background" width="600" style="border-radius: 10px;"/>
+</p>
+
+### When Anime Animation Isn't Available
+<p align="center" style="font-size: 30px; font-weight: bold; color: #FF6347;">
+  "Life is like anime; it has its ups and downs!"
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l1J9zN4aB9C0tAxWg/giphy.gif" alt="Anime Quote" width="300" style="border-radius: 10px;"/>
 </p>
 
 - 🔭 I am a student **University of Jambi**
