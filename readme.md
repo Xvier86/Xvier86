@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size: 20px; color: #fff; animation: fade 3s infinite;">🔭 I am a student <b>University of Jambi</b></span><br>
+  <span style="font-size: 20px; color: #fff; animation: fade 3s infinite;">🔭 I am a student at <b>University of Jambi</b></span><br>
   <span style="font-size: 20px; color: #fff; animation: fade 3s infinite;">🌱 I’m currently learning <b>Telegram Bot and Android Application Development</b></span><br>
   <span style="font-size: 20px; color: #fff; animation: fade 3s infinite;">💬 Ask me about <b>Python, CSS, and anything else I know</b></span><br>
   <span style="font-size: 20px; color: #fff; animation: fade 3s infinite;">🛸 Fun Fact: I love watching sci-fi movies and exploring new technologies!</span>
@@ -47,14 +47,14 @@
 <!-- Skills dan Tools -->
 ## 🛠 Skills & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
 </p>
 
 ---
@@ -68,23 +68,20 @@
 
 ---
 
-
----
-
 <!-- Kontak dan Sosial Media -->
 ## 🌐 Connect with me
 <p align="center">
   <a href="https://instagram.com/vier_gmsta22">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
   <a href="https://twitter.com/lordkazuma18">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
   <a href="https://t.me/bluewibes">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
   <a href="https://github.com/Xvier86">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
 </p>
 
