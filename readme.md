@@ -26,6 +26,15 @@
 
 ---
 
+<!-- Statistik GitHub -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xvier86&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xvier86&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
 <!-- Skills dan Tools -->
 ## 🛠 Skills & Tools
 <p align="center">
@@ -37,20 +46,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
-</p>
-
----
-
-<!-- Proyek Unggulan -->
-## 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Xvier86/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xvier86&repo=project-1&theme=radical" alt="Project 1">
-  </a>
-  <a href="https://github.com/Xvier86/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xvier86&repo=project-2&theme=radical" alt="Project 2">
-  </a>
 </p>
 
 ---
