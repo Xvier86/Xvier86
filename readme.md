@@ -13,17 +13,25 @@
 <!-- Tentang Saya -->
 ## 👨‍🚀 About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btZ8tt9J6nXHE4Y/giphy.gif" alt="Background Animation" width="600" style="border-radius: 10px;"/>
+  <span style="font-size: 30px; font-weight: bold; color: #FF6347; text-shadow: 2px 2px #000;">
+    "Coding is my superpower!"
+  </span>
 </p>
 
-<p align="center" style="font-size: 30px; font-weight: bold; color: #FF6347; text-shadow: 2px 2px #000;">
-  "Coding is my superpower!"
+<p align="center">
+  <span style="font-size: 20px; color: #fff; animation: fade 3s infinite;">🔭 I am a student <b>University of Jambi</b></span><br>
+  <span style="font-size: 20px; color: #fff; animation: fade 3s infinite;">🌱 I’m currently learning <b>Telegram Bot and Android Application Development</b></span><br>
+  <span style="font-size: 20px; color: #fff; animation: fade 3s infinite;">💬 Ask me about <b>Python, CSS, and anything else I know</b></span><br>
+  <span style="font-size: 20px; color: #fff; animation: fade 3s infinite;">🛸 Fun Fact: I love watching sci-fi movies and exploring new technologies!</span>
 </p>
 
-- 🔭 I am a student **University of Jambi**
-- 🌱 I’m currently learning **Telegram Bot and Android Application Development**
-- 💬 Ask me about **Python, CSS, and anything else I know**
-- 🛸 Fun Fact: I love watching sci-fi movies and exploring new technologies!
+<style>
+  @keyframes fade {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
 
 ---
 
@@ -51,9 +59,20 @@
 
 ---
 
+<!-- Pendidikan -->
+## 🎓 Education
+<p align="center">
+  - **University of Jambi** - Bachelor of Computer Science<br>
+    *Expected Graduation: 2025*
+</p>
+
+---
+
+
+---
+
 <!-- Kontak dan Sosial Media -->
 ## 🌐 Connect with me
-
 <p align="center">
   <a href="https://instagram.com/vier_gmsta22">
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram">
@@ -75,4 +94,3 @@
 <p align="center" style="font-size: 20px; font-weight: bold; color: #32CD32; text-shadow: 1px 1px #000;">
   "Let's code the future together!"
 </p>
-
