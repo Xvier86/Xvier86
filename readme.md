@@ -13,16 +13,11 @@
 <!-- Tentang Saya -->
 ## 👨‍🚀 About Me
 <p align="center">
-  <img src="https://media.giphy.com/media/YbXwovRiw8A2k6aS2k/giphy.gif" alt="Anime Background" width="600" style="border-radius: 10px;"/>
+  <img src="https://media.giphy.com/media/3o7btZ8tt9J6nXHE4Y/giphy.gif" alt="Background Animation" width="600" style="border-radius: 10px;"/>
 </p>
 
-### When Anime Animation Isn't Available
-<p align="center" style="font-size: 30px; font-weight: bold; color: #FF6347;">
-  "Life is like anime; it has its ups and downs!"
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l1J9zN4aB9C0tAxWg/giphy.gif" alt="Anime Quote" width="300" style="border-radius: 10px;"/>
+<p align="center" style="font-size: 30px; font-weight: bold; color: #FF6347; text-shadow: 2px 2px #000;">
+  "Coding is my superpower!"
 </p>
 
 - 🔭 I am a student **University of Jambi**
@@ -73,3 +68,11 @@
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
 </p>
+
+---
+
+<!-- Penutup -->
+<p align="center" style="font-size: 20px; font-weight: bold; color: #32CD32; text-shadow: 1px 1px #000;">
+  "Let's code the future together!"
+</p>
+
